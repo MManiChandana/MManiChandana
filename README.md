@@ -83,38 +83,6 @@ I'm **M Mani Chandana** — a passionate **Data Analyst & Engineer** who loves t
 
 ---
 
-<!-- SECTION E: GITHUB STATS -->
-## 📈 GitHub Stats
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=MManiChandana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180px" alt="GitHub Stats"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MManiChandana&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180px" alt="Top Languages"/>
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MManiChandana&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MManiChandana&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="95%"/>
-</div>
-
----
-
-<!-- SECTION F: GITHUB TROPHIES -->
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MManiChandana&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies" />
-</div>
-
----
-
 <!-- SECTION H: FOOTER -->
 ## 🤝 Let's Connect
 
