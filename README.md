@@ -75,9 +75,8 @@ I'm **M Mani Chandana** — a passionate **Data Analyst & Engineer** who loves t
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-M%20Mani%20Chandana-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mchandana10032003)
 [![GitHub](https://img.shields.io/badge/GitHub-MManiChandana-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MManiChandana)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@MManiChandana)
-[![Medium](https://img.shields.io/badge/Medium-Read%20My%20Articles-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@MManiChandana)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/MManiChandana)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@just_manu_things)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/manichandu1428)
 
 </div>
 
@@ -152,7 +151,7 @@ I'm always open to collaborating on **data projects**, **open source contributio
 
 [![LinkedIn](https://img.shields.io/badge/-Let's%20Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mchandana10032003)
 &nbsp;
-[![Email](https://img.shields.io/badge/-Drop%20Me%20a%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mmani@example.com)
+[![Email](https://img.shields.io/badge/-Drop%20Me%20a%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mchandana10m2003@gmail.com)
 
 <br/><br/>
 
