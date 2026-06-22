@@ -83,89 +83,91 @@ I'm **M Mani Chandana** — a passionate **Data Analyst & Engineer** who loves t
 ---
 
 <!-- SECTION: PROJECTS -->
+<!-- SECTION: PROJECTS -->
+
 ## 🚀 My Projects
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-  <h3>⛽ <a href="https://github.com/MManiChandana/Natural_Gas_Analysis">Natural Gas Analysis & Risk Modeling</a></h3>
-
-  <p>Built a finance-focused analytics solution combining natural gas price forecasting, storage contract valuation, and credit risk modeling. Leveraged historical energy market data to predict future prices, evaluate storage profitability, and support risk-based decision making.</p>
-
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Forecasting-FF6F00?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Risk%20Modeling-00897B?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Financial%20Analytics-7B1FA2?style=flat-square&logoColor=white"/>
-</td>
-    <td width="50%" valign="top">
-  <h3>🏭 <a href="https://github.com/MManiChandana/Deloitte_Project">Daikibo Telemetry Breakdown Analysis</a></h3>
-  <p>Analyzed industrial telemetry data from four global manufacturing facilities using Power BI to identify the factory with the highest machine failures and uncover the most failure-prone equipment driving operational downtime.</p>
-
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Power%20Query-217346?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Root%20Cause%20Analysis-FF6B35?style=flat-square&logoColor=white"/>
-</td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3>🎮 <a href="https://github.com/MManiChandana/AI_Subway_Runner">AI Subway Runner</a></h3>
-      <p>An AI-powered Subway Surfer-style game where an intelligent agent learns to play and dodge obstacles autonomously using reinforcement learning techniques.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/AI-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Reinforcement%20Learning-00897B?style=flat-square&logoColor=white"/>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📊 <a href="https://github.com/MManiChandana/Retail_dashboard_project">Retail Dashboard</a></h3>
-      <p>An interactive Power BI dashboard for retail analytics — tracking sales KPIs, revenue trends, product performance, and regional insights to support data-driven decisions.</p>
-      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
-      <img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square&logoColor=black"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧠 <a href="https://github.com/MManiChandana/Customer-segementation-Analysis">Customer Segmentation Analysis</a></h3>
-      <p>Applied unsupervised machine learning (K-Means clustering) to segment customers based on purchasing behaviour — enabling targeted marketing and personalized strategies.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-      <img src="https://img.shields.io/badge/K--Means-7B1FA2?style=flat-square&logoColor=white"/>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏪 <a href="https://github.com/MManiChandana/Store_Analysis">Store Analysis</a></h3>
-      <p>End-to-end exploratory data analysis on store sales data — uncovering trends, seasonal patterns, and actionable insights through data cleaning, transformation, and visualization.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📚 <a href="https://github.com/MManiChandana/LibraryManagementSystem_SQL_workbench">Library Management System</a></h3>
-      <p>A fully functional Library Management System built with SQL — featuring relational database design, complex queries, stored procedures, and complete CRUD operations in MySQL Workbench.</p>
-      <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🐍 <a href="https://github.com/MManiChandana/python_minor_projects">Python Minor Projects</a></h3>
-      <p>A collection of 5 Python mini-projects covering real-world problem solving — including automation scripts, data manipulation tasks, and logic-based programs to sharpen core Python skills.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Automation-FF6B35?style=flat-square&logoColor=white"/>
-      <img src="https://img.shields.io/badge/5%20Projects-00897B?style=flat-square&logoColor=white"/>
-    </td>
-    <td width="50%" valign="top">
-  <h3>💳 <a href="https://github.com/MManiChandana/Credit_Card_Fraud_Detection_Project">Credit Card Fraud Detection Analysis</a></h3>
-
-  <p>Performed exploratory data analysis on credit card transaction data to uncover fraud-related patterns, transaction trends, and risk indicators. Prepared the dataset for future fraud detection and predictive modeling initiatives.</p>
-
+      <p>AI-powered endless runner game built using reinforcement learning techniques.</p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Fraud%20Analytics-D32F2F?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI-FF6F00?style=flat-square"/>
+  <img src="https://img.shields.io/badge/RL-00897B?style=flat-square"/>
+</td>
+
+<td width="33%" valign="top">
+  <h3>⛽ <a href="https://github.com/MManiChandana/Natural_Gas_Analysis">Natural Gas Analysis</a></h3>
+  <p>Forecasting, storage contract valuation, and credit risk analytics project.</p>
+
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Forecasting-FF6F00?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Risk-7B1FA2?style=flat-square"/>
+</td>
+
+<td width="33%" valign="top">
+  <h3>🏭 <a href="https://github.com/MManiChandana/Deloitte_Project">Daikibo Analysis</a></h3>
+  <p>Power BI analysis of machine breakdowns across manufacturing facilities.</p>
+
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square"/>
+  <img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Analytics-FF6B35?style=flat-square"/>
+</td>
+  </tr>
+
+  <tr>
+    <td width="33%" valign="top">
+      <h3>💳 <a href="https://github.com/MManiChandana/Credit_Card_Fraud_Detection_Project">Credit Card Fraud Detection</a></h3>
+      <p>Exploratory analysis of transaction data to identify fraud patterns.</p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Fraud%20Analytics-D32F2F?style=flat-square"/>
+</td>
+
+<td width="33%" valign="top">
+  <h3>📊 <a href="https://github.com/MManiChandana/Retail_dashboard_project">Retail Dashboard</a></h3>
+  <p>Interactive Power BI dashboard for sales and KPI performance tracking.</p>
+
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square"/>
+  <img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square"/>
+</td>
+
+<td width="33%" valign="top">
+  <h3>🧠 <a href="https://github.com/MManiChandana/Customer-segementation-Analysis">Customer Segmentation</a></h3>
+  <p>K-Means clustering project for customer behavior analysis.</p>
+
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square"/>
+  <img src="https://img.shields.io/badge/K--Means-7B1FA2?style=flat-square"/>
+  <img src="https://img.shields.io/badge/ML-F7931E?style=flat-square"/>
+</td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🏪 <a href="https://github.com/MManiChandana/Store_Analysis">Store Analysis</a></h3>
+      <p>EDA project uncovering trends, patterns, and sales insights.</p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square"/>
+  <img src="https://img.shields.io/badge/EDA-00897B?style=flat-square"/>
+</td>
+<td width="33%" valign="top">
+  <h3>📚 <a href="https://github.com/MManiChandana/LibraryManagementSystem_SQL_workbench">Library Management System</a></h3>
+  <p>SQL database project featuring CRUD operations and relational design.</p>
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Database-4479A1?style=flat-square"/>
+</td>
+<td width="33%" valign="top">
+  <h3>🐍 <a href="https://github.com/MManiChandana/python_minor_projects">Python Minor Projects</a></h3>
+  <p>Collection of mini-projects focused on automation and problem solving.</p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Automation-FF6B35?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Projects-00897B?style=flat-square"/>
 </td>
   </tr>
 </table>
+
 
 ---
 
