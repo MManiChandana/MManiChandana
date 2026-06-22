@@ -88,6 +88,25 @@ I'm **M Mani Chandana** — a passionate **Data Analyst & Engineer** who loves t
 <table>
   <tr>
     <td width="50%" valign="top">
+  <h3>⛽ <a href="https://github.com/MManiChandana/Natural_Gas_Analysis">Natural Gas Analysis & Risk Modeling</a></h3>
+
+  <p>Built a finance-focused analytics solution combining natural gas price forecasting, storage contract valuation, and credit risk modeling. Leveraged historical energy market data to predict future prices, evaluate storage profitability, and support risk-based decision making.</p>
+
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Forecasting-FF6F00?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Risk%20Modeling-00897B?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Financial%20Analytics-7B1FA2?style=flat-square&logoColor=white"/>
+</td>
+    <td width="50%" valign="top">
+  <h3>🏭 <a href="https://github.com/MManiChandana/Deloitte_Project">Daikibo Telemetry Breakdown Analysis</a></h3>
+  <p>Analyzed industrial telemetry data from four global manufacturing facilities using Power BI to identify the factory with the highest machine failures and uncover the most failure-prone equipment driving operational downtime.</p>
+
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Power%20Query-217346?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Root%20Cause%20Analysis-FF6B35?style=flat-square&logoColor=white"/>
+</td>
+    <td width="50%" valign="top">
       <h3>🎮 <a href="https://github.com/MManiChandana/AI_Subway_Runner">AI Subway Runner</a></h3>
       <p>An AI-powered Subway Surfer-style game where an intelligent agent learns to play and dodge obstacles autonomously using reinforcement learning techniques.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -135,6 +154,16 @@ I'm **M Mani Chandana** — a passionate **Data Analyst & Engineer** who loves t
       <img src="https://img.shields.io/badge/Automation-FF6B35?style=flat-square&logoColor=white"/>
       <img src="https://img.shields.io/badge/5%20Projects-00897B?style=flat-square&logoColor=white"/>
     </td>
+    <td width="50%" valign="top">
+  <h3>💳 <a href="https://github.com/MManiChandana/Credit_Card_Fraud_Detection_Project">Credit Card Fraud Detection Analysis</a></h3>
+
+  <p>Performed exploratory data analysis on credit card transaction data to uncover fraud-related patterns, transaction trends, and risk indicators. Prepared the dataset for future fraud detection and predictive modeling initiatives.</p>
+
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Fraud%20Analytics-D32F2F?style=flat-square&logoColor=white"/>
+</td>
   </tr>
 </table>
 
